@@ -1,4 +1,4 @@
-## AI4BrainTumor (Paper Code Release)
+## TumorCLIP
 
 This repository is the paper code release for TumorCLIP: Lightweight Vision–Language Fusion for Explainable MRI-Based Brain Tumor Classification
 
