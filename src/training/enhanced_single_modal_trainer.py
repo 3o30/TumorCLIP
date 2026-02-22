@@ -258,7 +258,7 @@ class EnhancedSingleModalTrainer(SingleModalTrainer):
         start_time = time.time()
         
         # Only train DenseNet121 as specified
-        model_names = ['DenseNet121']
+        model_names = getattr(self.config, 'MODEL_NAMES', None)
         
         # Hyperparameters
         optimizers = self.config.OPTIMIZERS
