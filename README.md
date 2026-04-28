@@ -1,7 +1,7 @@
 ## TumorCLIP
 
 This repository is the paper code release for TumorCLIP: Lightweight Vision–Language Fusion for Explainable MRI-Based Brain Tumor Classification
-
+doi: https://doi.org/10.64898/2026.03.11.26348155
 
 Reproducibility is provided via **three Jupyter notebooks**; core modules live under `src/`.
 
